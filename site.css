@@ -1,8 +1,10 @@
 body {
-    background-color: aliceblue;
+    background-color: #FD6883;
+    color: #000;
+    font-family: 'Water Brush', cursive;
 }
 nav{
-    background-color: bisque;
+    background-color: #9C68FD;
     padding: 1em;
     display: flex;
     justify-content: right;
@@ -57,7 +59,7 @@ header {
 #card {
     width: 30%;
     height: 100%;
-    background-color: #fff;
+    background-color: #E35DB9;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     padding: 1em;
