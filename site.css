@@ -4,6 +4,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 nav{
+    height: 5vh;
     background-color: #9C68FD;
     padding: 1em;
     display: flex;
@@ -68,8 +69,12 @@ header {
     padding: 1em;
     margin: 1em;
 }
+#content{
+    height: 90vh;
+}
 
 footer {
+    height: 5vh;
     background-color: #9C68FD;
     padding: 1em;
     display: flex;
