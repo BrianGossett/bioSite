@@ -73,7 +73,7 @@ header {
     margin: 1em;
 }
 #content{
-    height: 90vh;
+    min-height: 75vh;
 }
 
 footer {
