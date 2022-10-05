@@ -48,6 +48,9 @@ header {
 
 #left {
     width: 40%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 
 #right {
